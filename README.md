@@ -3,7 +3,7 @@
 This is a bare bones SQLite repl for use in school.
 
 main.sql has some boilerplate to add columns, headers etc.
-```schema.sql``` creates trhe tables
+```schema.sql``` creates the tables
 ```data.sql``` is a simple file to list the various different ```.sql``` ```INSERT``` files
 For ease of reading, each table's ```INSERT```s are in their own ```.sql``` file - add more ```.read <filename>.sql``` as need to ```data.sql```
 
